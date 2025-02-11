@@ -26,8 +26,8 @@ Junior software engineer with foundational experience in **backend development**
 ## 🛠 Development Skills
 
 ### **Backend**
-- Java (Spring Boot, Spring Data, Spring Cloud, Spring Security...)
-- PostgreSQL
+- Java (Spring Boot, Spring Data, Spring Cloud, Spring Security, etc.)
+- SQL (PostgreSQL, MySQL, etc.)
 - REST API Development
 - Databases
 - Algorithms
