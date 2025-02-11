@@ -19,17 +19,18 @@ Here are some ideas to get you started:
 ## 🏆 About Me
 Graduated in **Computer Engineering** with a specialization in **Software Engineering** from the University of A Coruña. Currently working as a **Software Engineer at GBTEC Group** and pursuing a **Master’s in Computer Engineering**.
 
-Junior software engineer with foundational experience in **backend development** and **frontend technologies**. Committed to expanding skills and knowledge through continuous learning and hands-on experience.
+Junior software engineer with foundational experience in **backend development** and **frontend development**. Committed to expanding skills and knowledge through continuous learning and hands-on experience.
 
 ---
 
 ## 🛠 Development Skills
 
 ### **Backend**
-- Java (Spring Boot, Spring Data, Spring Cloud, Spring Security)
+- Java (Spring Boot, Spring Data, Spring Cloud, Spring Security...)
 - PostgreSQL
 - REST API Development
-- Microsoft Graph API
+- Databases
+- Algorithms
 
 ### **Frontend**
 - Angular
