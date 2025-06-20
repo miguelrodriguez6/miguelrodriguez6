@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## 🏆 About Me
-Graduated in **Computer Engineering** with a specialization in **Software Engineering** from the University of A Coruña. Currently working as a **Software Engineer at GBTEC Group** and pursuing a **Master’s in Computer Engineering**.
+Graduated in **Computer Engineering** with a specialization in **Software Engineering** from the University of A Coruña. Currently working as a **Software Engineer at Deloitte** and pursuing a **Master’s in Computer Engineering**.
 
 Junior software engineer with foundational experience in **backend development** and **frontend development**. Committed to expanding skills and knowledge through continuous learning and hands-on experience.
 
