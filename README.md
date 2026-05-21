@@ -43,6 +43,7 @@ Software Engineer with foundational experience in **backend development** and **
 - MuleSoft
 - SonarQube
 - Postman
+- GitHub Copilot
 - AWS (Amazon Web Services)
 - IntelliJ IDEA
 - Git
